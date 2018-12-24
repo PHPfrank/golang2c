@@ -13,3 +13,7 @@
 * 4.[输入某年某月某日，判断这一天是这一年的第几天？](https://github.com/PHPfrank/golang2c/blob/master/demo4.go)
 
 * 5.[输入三个整数x,y,z，请把这三个数由小到大输出。](https://github.com/PHPfrank/golang2c/blob/master/demo5.go)
+
+* 6.[用*号输出字母C的图案。](https://github.com/PHPfrank/golang2c/blob/master/demo6.go)
+
+* 8.[输出9*9口诀。](https://github.com/PHPfrank/golang2c/blob/master/demo8.go)
