@@ -17,3 +17,5 @@
 * 6.[用*号输出字母C的图案。](https://github.com/PHPfrank/golang2c/blob/master/demo6.go)
 
 * 8.[输出9*9口诀。](https://github.com/PHPfrank/golang2c/blob/master/demo8.go)
+
+* 9.[输出国际象棋棋盘。](https://github.com/PHPfrank/golang2c/blob/master/demo9.go)
