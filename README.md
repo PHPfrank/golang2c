@@ -21,3 +21,5 @@
 * 9.[输出国际象棋棋盘。](https://github.com/PHPfrank/golang2c/blob/master/demo9.go)
 
 * 10.[古典问题（兔子生崽）：有一对兔子，从出生后第3个月起每个月都生一对兔子，小兔子长到第三个月后每个月又生一对兔子，假如兔子都不死，问每个月的兔子总数为多少？（输出前40个月即可）](https://github.com/PHPfrank/golang2c/blob/master/demo10.go)
+
+* 11.[判断101到200之间的素数](https://github.com/PHPfrank/golang2c/blob/master/demo11.go)
