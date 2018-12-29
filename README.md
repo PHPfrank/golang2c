@@ -23,3 +23,5 @@
 * 10.[古典问题（兔子生崽）：有一对兔子，从出生后第3个月起每个月都生一对兔子，小兔子长到第三个月后每个月又生一对兔子，假如兔子都不死，问每个月的兔子总数为多少？（输出前40个月即可）](https://github.com/PHPfrank/golang2c/blob/master/demo10.go)
 
 * 11.[判断101到200之间的素数](https://github.com/PHPfrank/golang2c/blob/master/demo11.go)
+
+* 12.[打印出1000以内所有的"水仙花数"，所谓"水仙花数"是指一个三位数，其各位数字立方和等于该数本身](https://github.com/PHPfrank/golang2c/blob/master/demo12.go)
