@@ -25,3 +25,5 @@
 * 11.[判断101到200之间的素数](https://github.com/PHPfrank/golang2c/blob/master/demo11.go)
 
 * 12.[打印出1000以内所有的"水仙花数"，所谓"水仙花数"是指一个三位数，其各位数字立方和等于该数本身](https://github.com/PHPfrank/golang2c/blob/master/demo12.go)
+
+* 13.[将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*5。](https://github.com/PHPfrank/golang2c/blob/master/demo13.go)
