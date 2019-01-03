@@ -27,3 +27,5 @@
 * 12.[打印出1000以内所有的"水仙花数"，所谓"水仙花数"是指一个三位数，其各位数字立方和等于该数本身](https://github.com/PHPfrank/golang2c/blob/master/demo12.go)
 
 * 13.[将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*5。](https://github.com/PHPfrank/golang2c/blob/master/demo13.go)
+
+* 14.[利用条件运算符的嵌套来完成此题：学习成绩>=90分的同学用A表示，60-89分之间的用B表示，60分以下的用C表示。](https://github.com/PHPfrank/golang2c/blob/master/demo14.go)
