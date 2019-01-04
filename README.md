@@ -29,3 +29,5 @@
 * 13.[将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*5。](https://github.com/PHPfrank/golang2c/blob/master/demo13.go)
 
 * 14.[利用条件运算符的嵌套来完成此题：学习成绩>=90分的同学用A表示，60-89分之间的用B表示，60分以下的用C表示。](https://github.com/PHPfrank/golang2c/blob/master/demo14.go)
+
+* 15.[输入两个正整数m和n，求其最大公约数和最小公倍数。](https://github.com/PHPfrank/golang2c/blob/master/demo15.go)
