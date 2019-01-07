@@ -31,3 +31,5 @@
 * 14.[利用条件运算符的嵌套来完成此题：学习成绩>=90分的同学用A表示，60-89分之间的用B表示，60分以下的用C表示。](https://github.com/PHPfrank/golang2c/blob/master/demo14.go)
 
 * 15.[输入两个正整数m和n，求其最大公约数和最小公倍数。](https://github.com/PHPfrank/golang2c/blob/master/demo15.go)
+
+* 16.[计算s=a+aa+aaa+aaaa+aa...a的值，其中a是一个数字。例如2+22+222+2222+22222(此时共有5个数相加)](https://github.com/PHPfrank/golang2c/blob/master/demo16.go)
