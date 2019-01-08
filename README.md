@@ -33,3 +33,5 @@
 * 15.[输入两个正整数m和n，求其最大公约数和最小公倍数。](https://github.com/PHPfrank/golang2c/blob/master/demo15.go)
 
 * 16.[计算s=a+aa+aaa+aaaa+aa...a的值，其中a是一个数字。例如2+22+222+2222+22222(此时共有5个数相加)](https://github.com/PHPfrank/golang2c/blob/master/demo16.go)
+
+* 17.[一个数如果恰好等于它的因子之和，这个数就称为"完数"。例如6=1＋2＋3.编程找出1000以内的所有完数。](https://github.com/PHPfrank/golang2c/blob/master/demo17.go)
