@@ -41,3 +41,5 @@
 * 19.[猴子吃桃问题：猴子第一天摘下若干个桃子，当即吃了一半，还不瘾，又多吃了一个第二天早上又将剩下的桃子吃掉一半，又多吃了一个。以后每天早上都吃了前一天剩下的一半零一个。到第10天早上想再吃时，见只剩下一个桃子了。求第一天共摘了多少。](https://github.com/PHPfrank/golang2c/blob/master/demo19.go)
 
 * 20.[两个乒乓球队进行比赛，各出三人。甲队为a,b,c三人，乙队为x,y,z三人。已抽签决定比赛名单。有人向队员打听比赛的名单。a说他不和x比，c说他不和x,z比，请编程序找出三队赛手的名单。](https://github.com/PHPfrank/golang2c/blob/master/demo20.go)
+
+* 21.[打印菱形图案](https://github.com/PHPfrank/golang2c/blob/master/demo21.go)
