@@ -43,3 +43,5 @@
 * 20.[两个乒乓球队进行比赛，各出三人。甲队为a,b,c三人，乙队为x,y,z三人。已抽签决定比赛名单。有人向队员打听比赛的名单。a说他不和x比，c说他不和x,z比，请编程序找出三队赛手的名单。](https://github.com/PHPfrank/golang2c/blob/master/demo20.go)
 
 * 21.[打印菱形图案](https://github.com/PHPfrank/golang2c/blob/master/demo21.go)
+
+* 22.[有一分数序列：2/1，3/2，5/3，8/5，13/8，21/13...求出这个数列的前20项之和。](https://github.com/PHPfrank/golang2c/blob/master/demo22.go)
