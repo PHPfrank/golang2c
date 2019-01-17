@@ -47,3 +47,5 @@
 * 22.[有一分数序列：2/1，3/2，5/3，8/5，13/8，21/13...求出这个数列的前20项之和。](https://github.com/PHPfrank/golang2c/blob/master/demo22.go)
 
 * 23.[求1+2!+3!+...+20!的和。](https://github.com/PHPfrank/golang2c/blob/master/demo23.go)
+
+* 24.[利用递归方法求5!](https://github.com/PHPfrank/golang2c/blob/master/demo24.go)
