@@ -49,3 +49,5 @@
 * 23.[求1+2!+3!+...+20!的和。](https://github.com/PHPfrank/golang2c/blob/master/demo23.go)
 
 * 24.[利用递归方法求5!](https://github.com/PHPfrank/golang2c/blob/master/demo24.go)
+
+* 25.[利用递归函数调用方式，将所输入的5个字符，以相反顺序打印出来。](https://github.com/PHPfrank/golang2c/blob/master/demo25.go)
