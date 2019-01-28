@@ -59,3 +59,5 @@
 * 28.[一个5位数，判断它是不是回文数。即12321是回文数，个位与万位相同，十位与千位相同。](https://github.com/PHPfrank/golang2c/blob/master/demo28.go)
 
 * 29.[请输入星期几的第一个字母来判断一下是星期几，如果第一个字母一样，则继续判断第二个字母。](https://github.com/PHPfrank/golang2c/blob/master/demo29.go)
+
+* 30.[删除一个字符串中的指定字母，如：字符串 "aca"，删除其中的 a 字母。](https://github.com/PHPfrank/golang2c/blob/master/demo30.go)
