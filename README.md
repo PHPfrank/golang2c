@@ -61,3 +61,5 @@
 * 29.[请输入星期几的第一个字母来判断一下是星期几，如果第一个字母一样，则继续判断第二个字母。](https://github.com/PHPfrank/golang2c/blob/master/demo29.go)
 
 * 30.[删除一个字符串中的指定字母，如：字符串 "aca"，删除其中的 a 字母。](https://github.com/PHPfrank/golang2c/blob/master/demo30.go)
+
+* 31.[判断一个数字是否为质数。](https://github.com/PHPfrank/golang2c/blob/master/demo31.go)
